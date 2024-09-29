@@ -8,6 +8,10 @@ Welcome to the support page for the Penguin Bluetooth Device Checker App. This a
 - Device Status Monitoring: Provides real-time status updates for connected devices.
 - Diagnostics: Run tests to ensure device performance and connectivity.
 
+## Download
+
+You can download the Penguin Bluetooth Device Checker App from the [App Store](https://apps.apple.com/us/app/penguin-checker/id6692630535).
+
 ## Getting Started
 
 To get started with the app, please follow the steps below:
